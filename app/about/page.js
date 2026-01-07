@@ -45,7 +45,7 @@ export default function About() {
                     <div className="space-y-6">
                         <h2 className="text-3xl font-bold text-primary">Our Story</h2>
                         <p className="text-gray-600 leading-relaxed">
-                            Founded in 2020, the Faith Mmesomachukwu Kelechi Foundation was born out of a desire to bridge the gap between poverty and opportunity. What started as a small community outreach program in Lagos has grown into a nationwide movement.
+                            Founded in 2026, the Faith Mmesomachukwu Kelechi Foundation was born out of a desire to bridge the gap between poverty and opportunity. What started as a small community outreach program in Lagos has grown into a nationwide movement.
                         </p>
                         <p className="text-gray-600 leading-relaxed">
                             Our founder, inspired by her personal journey of overcoming adversity through faith and education, vowed to create a platform that would uplift others. Today, we have touched over 5,000 lives through our various programs.
